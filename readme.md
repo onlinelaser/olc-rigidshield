@@ -19,7 +19,7 @@ Our modifications based on hospital feedback have included:
 **Note that this is not an approved medical or protective device and has not been tested or certified as fit for any restricted use.**
 
 ## Source attribution
-Original design - Unknown
+Original design - Unknown  
 This variant - Online Laser Cutting
 
 ## License

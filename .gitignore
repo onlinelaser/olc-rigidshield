@@ -1,0 +1,4 @@
+*.dwg
+*.bak
+*.dwl*
+/reference
